@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "2ba9ec03bed47a388269752102bad3de",
+      "name": "Test"
+    },
+    {
+      "id": "3d336c6627c89505f08dd808f69195dd",
+      "name": "Name 2"
+    },
+    {
+      "id": "addaf5405e76c1e28716655cb1385e32",
+      "name": "Test 2"
+    },
+    {
+      "id": "f196fa94eb46eb07cb2561ebeade2c03",
+      "name": "Test 4"
+    }
+  ],
+  "socialPosts": [],
+  "sessions": [
+    {
+      "id": "0fc5c9352e81ed51d444929f57a71fc3",
+      "userId": "2ba9ec03bed47a388269752102bad3de"
+    },
+    {
+      "id": "b64bf2fa7c6190328f240021663b20c7",
+      "userId": "addaf5405e76c1e28716655cb1385e32"
+    }
+  ]
+}

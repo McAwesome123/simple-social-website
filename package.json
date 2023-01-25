@@ -1,0 +1,32 @@
+{
+  "name": "simple-social-server",
+  "version": "1.0.0",
+  "description": "social server tues",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "start:watch": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbogdanov/simple-social-server.git"
+  },
+  "keywords": [
+    "social",
+    "server",
+    "tues"
+  ],
+  "author": "Bogdan Bogdanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbogdanov/simple-social-server/issues"
+  },
+  "homepage": "https://github.com/bbogdanov/simple-social-server#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
